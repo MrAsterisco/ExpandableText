@@ -1,7 +1,7 @@
 # ExpandableText
 A SwiftUI component that shows a collapsed text with the ability to expand it.
 
-<img src="images/hero.gif" />
+<img src="hero.gif" />
 
 ## Installation
 ExpandableText is available through [Swift Package Manager](https://swift.org/package-manager).
